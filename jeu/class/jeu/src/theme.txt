@@ -1,0 +1,4 @@
+Espace	Corporation Solaire	Syndicat Astral	Mine	Route
+Pays	Pays1	Pays2	Ville	Departementale
+Europe	Est	Ouest	Pays	Autoroute
+Thème non valide	Pour	Tester	un	peu

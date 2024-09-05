@@ -1,0 +1,94 @@
+
+[SOMMET]
+0	DEPART	769	543	null	true	J0	0
+4	Vert	543	83	AL	false	J0	2
+8	Vert	370	115	CO	false	J0	3
+2	Vert	506	273	PT	false	J0	4
+3	Vert	691	71	AG	false	J0	5
+6	Vert	262	175	NR	false	J0	6
+6	Bleu	409	428	CO	false	J0	7
+8	Bleu	673	299	NR	false	J0	8
+5	Rouge	113	322	AG	false	J0	9
+3	Rouge	245	354	AU	false	J0	10
+1	Rouge	289	478	CO	false	J0	11
+2	Gris	784	322	FE	false	J0	12
+3	Bleu	367	657	FE	false	J0	13
+4	Bleu	533	543	TI	false	J0	14
+2	Bleu	672	469	NR	false	J0	15
+4	Gris	783	103	PT	false	J0	16
+3	Jaune	956	146	TI	false	J0	17
+4	Rouge	126	509	NR	false	J0	18
+2	Rouge	178	621	AU	false	J0	19
+2	Marron	551	685	NI	false	J0	20
+0	Gris	888	314	NR	false	J0	21
+1	Jaune	1239	474	AL	false	J0	22
+4	Jaune	1080	318	NI	false	J0	23
+5	Marron	248	736	AL	false	J0	24
+3	Marron	362	824	FE	false	J0	25
+4	Marron	477	873	AG	false	J0	26
+1	Marron	639	857	NR	false	J0	27
+3	Gris	872	663	PT	false	J0	28
+1	Gris	801	861	CO	false	J0	29
+5	Jaune	1069	819	NI	false	J0	30
+2	Jaune	979	498	AL	false	J0	31
+
+[ROUTES]
+
+[JOUEUR 1]
+
+[JOUEUR 2]
+1	2	3	J0
+1	2	4	J0
+1	3	4	J0
+1	2	5	J0
+1	4	5	J0
+1	6	4	J0
+1	6	7	J0
+1	7	4	J0
+1	7	8	J0
+1	8	5	J0
+2	9	6	J0
+1	9	10	J0
+1	10	6	J0
+1	11	7	J0
+1	11	10	J0
+1	12	15	J0
+1	13	11	J0
+1	13	7	J0
+1	13	14	J0
+1	14	15	J0
+1	14	8	J0
+1	16	12	J0
+1	8	15	J0
+2	16	17	J0
+2	18	9	J0
+1	18	19	J0
+1	11	19	J0
+2	2	21	J0
+1	20	13	J0
+2	21	16	J0
+
+1	21	22	J0
+1	22	23	J0
+
+1	23	17	J0
+
+1	24	25	J0
+2	24	19	J0
+1	25	26	J0
+1	26	27	J0
+2	25	20	J0
+
+1	28	21	J0
+2	28	22	J0
+1	29	28	J0
+2	29	27	J0
+2	29	30	J0
+1	31	30	J0
+2	30	22	J0
+2	31	23	J0
+1	21	31	J0
+1	1	15	J0
+2	1	28	J0
+1	1	20	J0
+1	20	27	J0
